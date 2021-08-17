@@ -1,0 +1,5 @@
+/bookingservApi/target/
+/bookingservImplementation/target/
+/.idea/
+/.DS_Store
+/**/.DS_Store
